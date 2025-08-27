@@ -6,11 +6,11 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import json
 import os
-import random
-import re
 import sys
 import numpy as np
 import pandas as pd
+import random
+import re
 
 # Ensure matplotlib backend is set correctly
 plt.switch_backend('TkAgg')
